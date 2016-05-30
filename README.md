@@ -6,6 +6,10 @@ This is an experiment used as a POC wich use webmidi to control the Novation Lau
 
 ## How to use it ##
 
+Play with the [**DEMO**](https://maxdow.github.io/launchpad-canvas-experiment/)
+
+Or
+
 ```
 git clone https://github.com/maxdow/launchpad-canvas-experiment
 cd launchpad-canvas-experiment
